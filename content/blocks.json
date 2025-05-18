@@ -1,0 +1,21 @@
+[
+  {
+    "type": "Turret",
+    "name": "virus",
+    "range": 3,
+    "reloadTime": 10,
+    "shootSound": "none",
+    "targetAir": true,
+    "targetGround": true,
+    "shoot": {
+      "type": "EffectShoot",
+      "effect": "hitBulletSmall"
+    },
+    "shootType": {
+      "type": "DamageBulletType",
+      "damage": 5,
+      "speed": 0.01,
+      "lifetime": 1
+    }
+  }
+]
