@@ -1,0 +1,8 @@
+{
+  "name": "Virus Block",
+  "author": "sepuh3",
+  "version": "1.0",
+  "minGameVersion": 136,
+  "main": "main.js",
+  "description": "Blok infeksi yang merusak unit dalam radius 3 meter"
+}
