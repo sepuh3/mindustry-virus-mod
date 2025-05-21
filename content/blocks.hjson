@@ -1,0 +1,50 @@
+type: ItemTurret
+
+category: turret
+
+size: 2
+
+health: 450
+
+
+
+reload: 500
+
+range: 100
+
+recoil: 120
+
+
+
+ammoTypes: {
+
+	pyratite: {
+
+		type: BasicBulletType
+
+		damage: 2000000
+
+		speed: 0.1
+
+		lifetime: 3000
+
+		
+
+		width: 11
+
+		height: 20
+
+		
+
+		ammoMultiplier: 2
+
+trailColor: 070719FF
+
+      trailParam: 5
+
+      trailLength: 15
+
+      trailWidth: 5
+
+	}
+}
