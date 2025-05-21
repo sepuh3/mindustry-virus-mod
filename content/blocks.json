@@ -1,6 +1,7 @@
 [
   {
     "type": "Turret",
+    "size": 5
     "name": "virus",
     "range": 3,
     "reloadTime": 10,
